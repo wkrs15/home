@@ -16,8 +16,8 @@ GitHub：https://github.com/imsyy/home
 } */
 
 @font-face {
-    font-family: "Pacifico-Regular";
-    src: url('../font/Pacifico-Regular.ttf') format('truetype');
+    font-family: "SmileySans";
+    src: url('../font/SmileySans.ttf') format('truetype');
 }
 
 @font-face {
@@ -309,12 +309,12 @@ main {
 
 .img-title-big {
     font-size: 3rem;
-    font-family: 'Pacifico-Regular' !important;
+    font-family: '' !important;
 }
 
 span.img-text {
     font-size: 2rem;
-    font-family: 'Pacifico-Regular' !important;
+    font-family: '' !important;
 }
 
 /*简介*/
@@ -341,7 +341,7 @@ span.img-text {
 }
 
 span#change {
-    font-family: 'Pacifico-Regular' !important;
+    font-family: 'SmileySans' !important;
 }
 
 .fa-solid.fa-quote-right {
